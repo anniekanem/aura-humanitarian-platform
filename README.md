@@ -1,2 +1,3 @@
 # aura-humanitarian-platform
-Open-source safety intelligence platform for humanitarian responders.
+Real-time safety intelligence for humanitarian responders
+https://auraintelligence.carrd.co
